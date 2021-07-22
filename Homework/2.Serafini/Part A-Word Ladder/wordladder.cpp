@@ -1,6 +1,7 @@
-// This is the CPP file you will edit and turn in.
-// Also remove these comments here and add your own.
-// TODO: remove this comment header
+//  Shlomo Stept
+//  CS106B - self monitored class, to familiarize myself with data structues in c++
+//  Date: 7/22/21
+//  Homework 2: Serafini --> Part A: Word ladder 
 
 #include <cctype>
 #include <cmath>
