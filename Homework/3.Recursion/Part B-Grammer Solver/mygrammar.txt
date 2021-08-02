@@ -1,0 +1,8 @@
+<s>::=<n> <v> <ob> <p>
+<v>::=<iv>|<av>
+<p>::=.
+<sub>::=She|We|He|They|our
+<n>::=Betty|Arther|Wedding|justice|Cake|School|Lecture|Computer
+<av>::=kicked|scratched|rustled|commanded|directed|led|predicted
+<iv>::=laughed|sneezed|barked|fell|flew|tripped|sweeped|wrote|worked|swam
+<ob>::=his couch|the television|the computer|his car|APA rules|his sources
